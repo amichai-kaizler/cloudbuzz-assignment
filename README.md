@@ -7,3 +7,4 @@ the JSON request should look something like this, you can change the numbers:
     "firstnumber": "12",
     "secondnumber": "30"
 }
+I created a subscription for the SNS service for this email: eranz@cloudbuzz.co.il
